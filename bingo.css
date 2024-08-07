@@ -13,7 +13,7 @@ body {
 .letter {
 	font-family: Helvetica;
 	font-size: 45pt;
-	border: 1px solid black;
+	border: 0px solid black;
 	text-align: center;
 	height: 110px;
 	background-color: #F66;
@@ -23,7 +23,7 @@ body {
 	font-family: Helvetica;
 	font-size: 40pt;
 	font-color: #2b2b2b; 
-	border: 1px solid black;
+	border: 0px solid black;
 	text-align: center;
 	height: 110px;
 	background-color: white;
