@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+	background-color: #212121;
 }
 
 #spacer {
@@ -22,11 +22,11 @@ body {
 .cell {
 	font-family: Helvetica;
 	font-size: 40pt;
+	font-color: #2b2b2b; 
 	border: 1px solid black;
 	text-align: center;
 	height: 110px;
 	background-color: white;
-	
 }
 .called {
 	background-color: yellow;
